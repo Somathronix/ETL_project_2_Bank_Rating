@@ -1,0 +1,315 @@
+2024-06-08 17:01:14,434 - INFO - Data extraction started
+2024-06-08 17:01:15,712 - INFO - Data extraction completed
+2024-06-08 17:01:15,712 - INFO - Data transformation started
+2024-06-08 17:01:15,715 - INFO - Data transformation completed
+2024-06-08 17:01:15,715 - INFO - Saving to CSV started
+2024-06-08 17:01:15,717 - INFO - Saving to CSV completed
+2024-06-08 17:01:15,717 - INFO - Saving to DB started
+2024-06-08 17:01:15,721 - INFO - Saving to DB completed
+2024-06-08 17:01:15,721 - INFO - Running queries started
+2024-06-08 17:01:15,724 - INFO -                                        Name  Market_Cap_Billion_GBP
+0   Industrial and Commercial Bank of China                 4664.55
+1                Agricultural Bank of China                 4161.11
+2                   China Construction Bank                 3996.21
+3                             Bank of China                 3387.93
+4                            JPMorgan Chase                 2867.79
+5                           Bank of America                 2353.31
+6                                      HSBC                 2160.68
+7                               BNP Paribas                 2121.91
+8            Mitsubishi UFJ Financial Group                 2084.41
+9                           Crédit Agricole                 2025.34
+10             Postal Savings Bank of China                 1641.22
+11                                Citigroup                 1628.61
+12                               SMBC Group                 1500.23
+13                          Banco Santander                 1469.91
+14                   Bank of Communications                 1467.34
+15                              Wells Fargo                 1430.03
+16                   Mizuho Financial Group                 1423.43
+17                                 Barclays                 1399.87
+18                         Société Générale                 1270.94
+19                                      UBS                 1270.76
+20                              Groupe BPCE                 1263.03
+21                            Goldman Sachs                 1214.78
+22                          Japan Post Bank                 1202.94
+23                     Royal Bank of Canada                 1159.14
+24                     China Merchants Bank                 1150.92
+25                            Deutsche Bank                 1073.42
+26                  Industrial Bank (China)                 1060.12
+27                    Toronto-Dominion Bank                 1056.93
+28                         China CITIC Bank                  944.71
+29                            Crédit Mutuel                  934.58
+30         Shanghai Pudong Development Bank                  893.31
+31                           Morgan Stanley                  883.33
+32                     Lloyds Banking Group                  830.84
+33                      China Minsheng Bank                  800.95
+34                                ING Group                  797.98
+35                          Intesa Sanpaolo                  789.39
+36                               Scotiabank                  770.42
+37                         Bank of Montreal                  732.74
+38                    China Everbright Bank                  706.80
+39                            NatWest Group                  652.90
+40                                UniCredit                  645.95
+41                        Commonwealth Bank                  642.87
+42          Banco Bilbao Vizcaya Argentaria                  634.36
+43                       Standard Chartered                  608.90
+44                        La Banque postale                  603.77
+45                             Ping An Bank                  583.07
+46                      State Bank of India                  577.24
+47                                ANZ Group                  569.50
+48       Canadian Imperial Bank of Commerce                  537.44
+49                                  DZ Bank                  527.24
+50                         Norinchukin Bank                  519.50
+51                  National Australia Bank                  505.72
+52                                 Rabobank                  502.05
+53                                CaixaBank                  496.64
+54                                  Westpac                  491.73
+55                             U.S. Bancorp                  490.98
+56                                   Nordea                  490.41
+57                              Capital One                  466.19
+58                       Sberbank of Russia                  430.59
+59                              Commerzbank                  423.01
+60                              Huaxia Bank                  416.31
+61                   PNC Financial Services                  415.57
+62                                DBS Group                  414.47
+63                            Itaú Unibanco                  411.23
+64                       KB Financial Group                  408.44
+65                              Danske Bank                  401.68
+66                    Truist Financial Corp                  396.16
+67                  Shinhan Financial Group                  394.78
+68                          Resona Holdings                  390.37
+69           Sumitomo Mitsui Trust Holdings                  385.05
+70                          Bank of Beijing                  372.45
+71                       China Guangfa Bank                  366.71
+72               Charles Schwab Corporation                  364.95
+73                                HDFC Bank                  343.61
+74                          Bank of Jiangsu                  338.36
+75                     Hana Financial Group                  337.79
+76                          Banco do Brasil                  331.31
+77              Nationwide Building Society                  330.74
+78                      China Zheshang Bank                  328.09
+79                                     OCBC                  326.73
+80                         Bank of Shanghai                  322.00
+81                                 ABN AMRO                  309.11
+82              The Bank of New York Mellon                  303.31
+83                     United Overseas Bank                  293.50
+84                           Banco Bradesco                  292.12
+85                            Nonghyup Bank                  291.90
+86                          Nomura Holdings                  287.43
+87                    Woori Financial Group                  282.72
+88                                KBC Group                  283.77
+89                  Caixa Econômica Federal                  279.19
+90                              Erste Group                  275.78
+91             Landesbank Baden-Württemberg                  272.62
+92                           Bank of Ningbo                  270.81
+93                                SEB Group                  265.50
+94                         Raiffeisen Group                  261.12
+95                            Handelsbanken                  260.32
+96                 Industrial Bank of Korea                  255.90
+97                                      DNB                  251.02
+98                      Qatar National Bank                  250.22
+99                                 VTB Bank                  241.87
+2024-06-08 17:01:15,727 - INFO -                                        Name  Market_Cap_Billion_EUR
+0   Industrial and Commercial Bank of China                 5357.92
+1                Agricultural Bank of China                 4779.65
+2                   China Construction Bank                 4590.24
+3                             Bank of China                 3891.54
+4                            JPMorgan Chase                 3294.08
+5                           Bank of America                 2703.13
+6                                      HSBC                 2481.86
+7                               BNP Paribas                 2437.32
+8            Mitsubishi UFJ Financial Group                 2394.25
+9                           Crédit Agricole                 2326.41
+10             Postal Savings Bank of China                 1885.18
+11                                Citigroup                 1870.71
+12                               SMBC Group                 1723.24
+13                          Banco Santander                 1688.41
+14                   Bank of Communications                 1685.46
+15                              Wells Fargo                 1642.60
+16                   Mizuho Financial Group                 1635.03
+17                                 Barclays                 1607.96
+18                         Société Générale                 1459.87
+19                                      UBS                 1459.66
+20                              Groupe BPCE                 1450.78
+21                            Goldman Sachs                 1395.35
+22                          Japan Post Bank                 1381.76
+23                     Royal Bank of Canada                 1331.45
+24                     China Merchants Bank                 1322.00
+25                            Deutsche Bank                 1232.98
+26                  Industrial Bank (China)                 1217.70
+27                    Toronto-Dominion Bank                 1214.05
+28                         China CITIC Bank                 1085.14
+29                            Crédit Mutuel                 1073.51
+30         Shanghai Pudong Development Bank                 1026.10
+31                           Morgan Stanley                 1014.64
+32                     Lloyds Banking Group                  954.35
+33                      China Minsheng Bank                  920.01
+34                                ING Group                  916.60
+35                          Intesa Sanpaolo                  906.73
+36                               Scotiabank                  884.94
+37                         Bank of Montreal                  841.66
+38                    China Everbright Bank                  811.87
+39                            NatWest Group                  749.96
+40                                UniCredit                  741.96
+41                        Commonwealth Bank                  738.43
+42          Banco Bilbao Vizcaya Argentaria                  728.66
+43                       Standard Chartered                  699.41
+44                        La Banque postale                  693.52
+45                             Ping An Bank                  669.74
+46                      State Bank of India                  663.04
+47                                ANZ Group                  654.15
+48       Canadian Imperial Bank of Commerce                  617.33
+49                                  DZ Bank                  605.62
+50                         Norinchukin Bank                  596.73
+51                  National Australia Bank                  580.90
+52                                 Rabobank                  576.68
+53                                CaixaBank                  570.46
+54                                  Westpac                  564.82
+55                             U.S. Bancorp                  563.97
+56                                   Nordea                  563.30
+57                              Capital One                  535.49
+58                       Sberbank of Russia                  494.60
+59                              Commerzbank                  485.89
+60                              Huaxia Bank                  478.19
+61                   PNC Financial Services                  477.34
+62                                DBS Group                  476.08
+63                            Itaú Unibanco                  472.36
+64                       KB Financial Group                  469.15
+65                              Danske Bank                  461.39
+66                    Truist Financial Corp                  455.05
+67                  Shinhan Financial Group                  453.46
+68                          Resona Holdings                  448.40
+69           Sumitomo Mitsui Trust Holdings                  442.29
+70                          Bank of Beijing                  427.81
+71                       China Guangfa Bank                  421.22
+72               Charles Schwab Corporation                  419.20
+73                                HDFC Bank                  394.69
+74                          Bank of Jiangsu                  388.66
+75                     Hana Financial Group                  388.00
+76                          Banco do Brasil                  380.56
+77              Nationwide Building Society                  379.91
+78                      China Zheshang Bank                  376.86
+79                                     OCBC                  375.30
+80                         Bank of Shanghai                  369.87
+81                                 ABN AMRO                  355.06
+82              The Bank of New York Mellon                  348.40
+83                     United Overseas Bank                  337.13
+84                           Banco Bradesco                  335.55
+85                            Nonghyup Bank                  335.29
+86                          Nomura Holdings                  330.16
+87                    Woori Financial Group                  324.74
+88                                KBC Group                  325.95
+89                  Caixa Econômica Federal                  320.70
+90                              Erste Group                  316.77
+91             Landesbank Baden-Württemberg                  313.15
+92                           Bank of Ningbo                  311.07
+93                                SEB Group                  304.97
+94                         Raiffeisen Group                  299.94
+95                            Handelsbanken                  299.02
+96                 Industrial Bank of Korea                  293.94
+97                                      DNB                  288.33
+98                      Qatar National Bank                  287.42
+99                                 VTB Bank                  277.82
+2024-06-08 17:01:15,729 - INFO -                                        Name  Market_Cap_Billion_INR
+0   Industrial and Commercial Bank of China               470047.52
+1                Agricultural Bank of China               419316.06
+2                   China Construction Bank               402698.88
+3                             Bank of China               341402.34
+4                            JPMorgan Chase               288987.83
+5                           Bank of America               237143.79
+6                                      HSBC               217732.47
+7                               BNP Paribas               213825.00
+8            Mitsubishi UFJ Financial Group               210046.54
+9                           Crédit Agricole               204094.36
+10             Postal Savings Bank of China               165385.82
+11                                Citigroup               164115.89
+12                               SMBC Group               151178.74
+13                          Banco Santander               148122.87
+14                   Bank of Communications               147864.11
+15                              Wells Fargo               144104.29
+16                   Mizuho Financial Group               143439.87
+17                                 Barclays               141065.56
+18                         Société Générale               128073.23
+19                                      UBS               128055.33
+20                              Groupe BPCE               127276.08
+21                            Goldman Sachs               122413.37
+22                          Japan Post Bank               121220.99
+23                     Royal Bank of Canada               116807.19
+24                     China Merchants Bank               115978.72
+25                            Deutsche Bank               108169.00
+26                  Industrial Bank (China)               106828.24
+27                    Toronto-Dominion Bank               106507.59
+28                         China CITIC Bank                95198.30
+29                            Crédit Mutuel                94178.18
+30         Shanghai Pudong Development Bank                90019.41
+31                           Morgan Stanley                89013.46
+32                     Lloyds Banking Group                83724.21
+33                      China Minsheng Bank                80712.33
+34                                ING Group                80412.56
+35                          Intesa Sanpaolo                79546.80
+36                               Scotiabank                77635.57
+37                         Bank of Montreal                73838.47
+38                    China Everbright Bank                71224.79
+39                            NatWest Group                65793.11
+40                                UniCredit                65092.15
+41                        Commonwealth Bank                64781.94
+42          Banco Bilbao Vizcaya Argentaria                63925.13
+43                       Standard Chartered                61359.18
+44                        La Banque postale                60842.41
+45                             Ping An Bank                58755.94
+46                      State Bank of India                58168.33
+47                                ANZ Group                57388.33
+48       Canadian Imperial Bank of Commerce                54157.95
+49                                  DZ Bank                53130.38
+50                         Norinchukin Bank                52350.38
+51                  National Australia Bank                50961.88
+52                                 Rabobank                50592.02
+53                                CaixaBank                50046.16
+54                                  Westpac                49551.76
+55                             U.S. Bancorp                49476.45
+56                                   Nordea                49418.28
+57                              Capital One                46978.35
+58                       Sberbank of Russia                43390.79
+59                              Commerzbank                42627.19
+60                              Huaxia Bank                41951.59
+61                   PNC Financial Services                41877.02
+62                                DBS Group                41766.66
+63                            Itaú Unibanco                41440.04
+64                       KB Financial Group                41158.17
+65                              Danske Bank                40477.34
+66                    Truist Financial Corp                39921.05
+67                  Shinhan Financial Group                39781.60
+68                          Resona Holdings                39337.91
+69           Sumitomo Mitsui Trust Holdings                38801.75
+70                          Bank of Beijing                37531.83
+71                       China Guangfa Bank                36953.16
+72               Charles Schwab Corporation                36776.43
+73                                HDFC Bank                34625.83
+74                          Bank of Jiangsu                34097.13
+75                     Hana Financial Group                34038.97
+76                          Banco do Brasil                33386.48
+77              Nationwide Building Society                33329.06
+78                      China Zheshang Bank                33062.10
+79                                     OCBC                32924.89
+80                         Bank of Shanghai                32448.39
+81                                 ABN AMRO                31149.38
+82              The Bank of New York Mellon                30564.75
+83                     United Overseas Bank                29575.95
+84                           Banco Bradesco                29437.25
+85                            Nonghyup Bank                29414.88
+86                          Nomura Holdings                28964.48
+87                    Woori Financial Group                28489.47
+88                                KBC Group                28595.36
+89                  Caixa Econômica Federal                28134.52
+90                              Erste Group                27790.00
+91             Landesbank Baden-Württemberg                27472.33
+92                           Bank of Ningbo                27289.64
+93                                SEB Group                26754.97
+94                         Raiffeisen Group                26313.52
+95                            Handelsbanken                26232.98
+96                 Industrial Bank of Korea                25787.05
+97                                      DNB                25294.89
+98                      Qatar National Bank                25215.10
+99                                 VTB Bank                24373.20
+2024-06-08 17:01:15,729 - INFO - Running queries completed
+2024-06-08 17:01:15,729 - INFO - Running custom query
+2024-06-08 17:01:15,730 - INFO - Custom query result: [('Industrial and Commercial Bank of China', 6303.44), ('Agricultural Bank of China', 5623.12), ('China Construction Bank', 5400.28), ('Bank of China', 4578.28), ('JPMorgan Chase', 3875.39), ('Bank of America', 3180.15), ('HSBC', 2919.84), ('BNP Paribas', 2867.44), ('Mitsubishi UFJ Financial Group', 2816.77), ('Crédit Agricole', 2736.95), ('Postal Savings Bank of China', 2217.86), ('Citigroup', 2200.83), ('SMBC Group', 2027.34), ('Banco Santander', 1986.36), ('Bank of Communications', 1982.89), ('Wells Fargo', 1932.47), ('Mizuho Financial Group', 1923.56), ('Barclays', 1891.72), ('Société Générale', 1717.49), ('UBS', 1717.25), ('Groupe BPCE', 1706.8), ('Goldman Sachs', 1641.59), ('Japan Post Bank', 1625.6), ('Royal Bank of Canada', 1566.41), ('China Merchants Bank', 1555.3), ('Deutsche Bank', 1450.57), ('Industrial Bank (China)', 1432.59), ('Toronto-Dominion Bank', 1428.29), ('China CITIC Bank', 1276.63), ('Crédit Mutuel', 1262.95), ('Shanghai Pudong Development Bank', 1207.18), ('Morgan Stanley', 1193.69), ('Lloyds Banking Group', 1122.76), ('China Minsheng Bank', 1082.37), ('ING Group', 1078.35), ('Intesa Sanpaolo', 1066.74), ('Scotiabank', 1041.11), ('Bank of Montreal', 990.19), ('China Everbright Bank', 955.14), ('NatWest Group', 882.3), ('UniCredit', 872.9), ('Commonwealth Bank', 868.74), ('Banco Bilbao Vizcaya Argentaria', 857.25), ('Standard Chartered', 822.84), ('La Banque postale', 815.91), ('Ping An Bank', 787.93), ('State Bank of India', 780.05), ('ANZ Group', 769.59), ('Canadian Imperial Bank of Commerce', 726.27), ('DZ Bank', 712.49), ('Norinchukin Bank', 702.03), ('National Australia Bank', 683.41), ('Rabobank', 678.45), ('CaixaBank', 671.13), ('Westpac', 664.5), ('U.S. Bancorp', 663.49), ('Nordea', 662.71), ('Capital One', 629.99), ('Sberbank of Russia', 581.88), ('Commerzbank', 571.64), ('Huaxia Bank', 562.58), ('PNC Financial Services', 561.58), ('DBS Group', 560.1), ('Itaú Unibanco', 555.72), ('KB Financial Group', 551.94), ('Danske Bank', 542.81), ('Truist Financial Corp', 535.35), ('Shinhan Financial Group', 533.48), ('Resona Holdings', 527.53), ('Sumitomo Mitsui Trust Holdings', 520.34), ('Bank of Beijing', 503.31), ('China Guangfa Bank', 495.55), ('Charles Schwab Corporation', 493.18), ('HDFC Bank', 464.34), ('Bank of Jiangsu', 457.25), ('Hana Financial Group', 456.47), ('Banco do Brasil', 447.72), ('Nationwide Building Society', 446.95), ('China Zheshang Bank', 443.37), ('OCBC', 441.53), ('Bank of Shanghai', 435.14), ('ABN AMRO', 417.72), ('The Bank of New York Mellon', 409.88), ('United Overseas Bank', 396.62), ('Banco Bradesco', 394.76), ('Nonghyup Bank', 394.46), ('Nomura Holdings', 388.42), ('Woori Financial Group', 382.05), ('KBC Group', 383.47), ('Caixa Econômica Federal', 377.29), ('Erste Group', 372.67), ('Landesbank Baden-Württemberg', 368.41), ('Bank of Ningbo', 365.96), ('SEB Group', 358.79), ('Raiffeisen Group', 352.87), ('Handelsbanken', 351.79), ('Industrial Bank of Korea', 345.81), ('DNB', 339.21), ('Qatar National Bank', 338.14), ('VTB Bank', 326.85)]
